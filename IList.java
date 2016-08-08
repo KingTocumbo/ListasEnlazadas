@@ -70,6 +70,8 @@ public interface IList<E>
    // or -1 if value is not found
 
    public E get(int i);
+      E value = E.get[i];
+      return value
    // pre: 0 <= i < size()
    // post: returns object found at that location
 
